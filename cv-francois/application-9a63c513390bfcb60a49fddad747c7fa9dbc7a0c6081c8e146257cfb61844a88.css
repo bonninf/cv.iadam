@@ -35006,3 +35006,28 @@ iframe.t-show--video-container:hover+a .p-content--icon-video-delete {
     opacity: 1;
     visibility: visible
 }
+
+/*fb*/
+/* unvisited link */
+span.fb-link a:link {
+    color: #2128DE;
+    text-decoration: underline;
+}
+
+/* visited link */
+span.fb-link a:visited {
+    color: #4348D9;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+span.fb-link a:hover {
+    color: #6569DB;
+    text-decoration: none;
+}
+
+/* selected link */
+span.fb-link a:active {
+    color: #2128DE;
+    text-decoration: none;
+}
