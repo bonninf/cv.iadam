@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to iAdaM Pages
 
 You can use the [editor on GitHub](https://github.com/bonninf/cv.iadam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
